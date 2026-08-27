@@ -1,0 +1,11 @@
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\Harmony\bin\Release\net8.0\0Harmony.deps.json
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\Harmony\bin\Release\net8.0\0Harmony.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\Harmony\bin\Release\net8.0\0Harmony.pdb
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\Harmony\obj\Release\net8.0\Harmony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\Harmony\obj\Release\net8.0\Harmony.AssemblyInfoInputs.cache
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\Harmony\obj\Release\net8.0\Harmony.AssemblyInfo.cs
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\Harmony\obj\Release\net8.0\Harmony.csproj.CoreCompileInputs.cache
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\Harmony\obj\Release\net8.0\0Harmony.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\Harmony\obj\Release\net8.0\refint\0Harmony.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\Harmony\obj\Release\net8.0\0Harmony.pdb
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\Harmony\obj\Release\net8.0\ref\0Harmony.dll

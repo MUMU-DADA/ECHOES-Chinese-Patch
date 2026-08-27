@@ -1,0 +1,14 @@
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\bin\Release\net8.0\PluginChecks.exe
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\bin\Release\net8.0\PluginChecks.deps.json
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\bin\Release\net8.0\PluginChecks.runtimeconfig.json
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\bin\Release\net8.0\PluginChecks.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\bin\Release\net8.0\PluginChecks.pdb
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\obj\Release\net8.0\PluginChecks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\obj\Release\net8.0\PluginChecks.AssemblyInfoInputs.cache
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\obj\Release\net8.0\PluginChecks.AssemblyInfo.cs
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\obj\Release\net8.0\PluginChecks.csproj.CoreCompileInputs.cache
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\obj\Release\net8.0\PluginChecks.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\obj\Release\net8.0\refint\PluginChecks.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\obj\Release\net8.0\PluginChecks.pdb
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\obj\Release\net8.0\PluginChecks.genruntimeconfig.cache
+C:\Users\mumu\Desktop\ECHOES\Tools\PluginChecks\obj\Release\net8.0\ref\PluginChecks.dll

@@ -1,0 +1,12 @@
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\bin\Release\net8.0\EchoesChinese.deps.json
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\bin\Release\net8.0\EchoesChinese.dll
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\bin\Release\net8.0\EchoesChinese.pdb
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\obj\Release\net8.0\EchoesChinese.csproj.AssemblyReference.cache
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\obj\Release\net8.0\EchoesChinese.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\obj\Release\net8.0\EchoesChinese.AssemblyInfoInputs.cache
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\obj\Release\net8.0\EchoesChinese.AssemblyInfo.cs
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\obj\Release\net8.0\EchoesChinese.csproj.CoreCompileInputs.cache
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\obj\Release\net8.0\EchoesChinese.dll
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\obj\Release\net8.0\refint\EchoesChinese.dll
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\obj\Release\net8.0\EchoesChinese.pdb
+C:\Users\mumu\Desktop\ECHOES\PatchSource\EchoesChinese\obj\Release\net8.0\ref\EchoesChinese.dll

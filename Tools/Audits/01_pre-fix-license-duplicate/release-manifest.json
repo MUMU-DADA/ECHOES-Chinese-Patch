@@ -1,0 +1,178 @@
+{
+  "patchVersion": "1.0.0",
+  "gameBuildGuid": "3582fd50e292455aa54dd78f69aa0d2b",
+  "loader": {
+    "name": "BepInEx",
+    "version": "5.4.23.5",
+    "architecture": "x64"
+  },
+  "localizedVideo": false,
+  "generatedAt": "2026-08-26T22:27:32.5528235+00:00",
+  "files": [
+    {
+      "path": ".doorstop_version",
+      "size": 5,
+      "sha256": "75A2F501000D4FE28F74BC7EE66DAE5581959D28B6C44F0C1B0C05CD5BA261E6"
+    },
+    {
+      "path": "使用说明.txt",
+      "size": 1296,
+      "sha256": "BE5BB700AAC51E39E9ECDDBE04C7A57B279EA2BD3BB9EB3AC5F87A2D75601249"
+    },
+    {
+      "path": "BepInEx/core/0Harmony.dll",
+      "size": 204800,
+      "sha256": "1A21CC03424FC82C3DD1346905D16494536B9595AE4162228D99FB7C285C1031"
+    },
+    {
+      "path": "BepInEx/core/0Harmony.xml",
+      "size": 267107,
+      "sha256": "D1F02FC3ADA3A13DA307DE421225BFE56EBE24064370980979391C4BE021672F"
+    },
+    {
+      "path": "BepInEx/core/0Harmony20.dll",
+      "size": 112640,
+      "sha256": "C755A5AB2712915A32F9A850D580A8C1B70FF1653BC76600F2767AA8FFCCC663"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.dll",
+      "size": 128512,
+      "sha256": "8255B28902886085C578B9E427D3073C97002DB85176D2090CDEDA90EF14CE70"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Harmony.dll",
+      "size": 6656,
+      "sha256": "00C8F2AC48593E4D45CE4EB26CE4E68B18113C5C489B38B8BF0850F65830D601"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Harmony.xml",
+      "size": 4056,
+      "sha256": "A04FEDF08F7C81F5D01ABA6F2840A7FFCE50B79BBD24587D8DBE69AB73971D29"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Preloader.dll",
+      "size": 43008,
+      "sha256": "55D3895351A9D16B63B6F35F1C01B44AC650979E853D0BD3A442B92A082AF64F"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Preloader.xml",
+      "size": 7964,
+      "sha256": "33275B2783B7B99495A02C098EE86D6A9A2783E884A5C9369021F20C94CF99E7"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.xml",
+      "size": 89835,
+      "sha256": "7BA2266061B9F8A9F146218A312BFDD0D7F2B53A99A7E66C957215C6B66CA0D7"
+    },
+    {
+      "path": "BepInEx/core/HarmonyXInterop.dll",
+      "size": 23552,
+      "sha256": "7CE1342D3AFA0334B59A3E38C0AED15E162B9ABE9D46F95F34BE44AF47F3B493"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.dll",
+      "size": 339456,
+      "sha256": "7AE470288FFF4A402899C254D0A76CEFEF55877F5C54F96E83C797CC5BB6E2F6"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Mdb.dll",
+      "size": 43008,
+      "sha256": "5896D1898F616701FFF18F3B2C71E6B844D2390EF9F41E1C5FCCCE8CB27C698E"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Pdb.dll",
+      "size": 86528,
+      "sha256": "174DB44A067F58561510AF746F3CAEB032037762C57A31C8D9EE32DB25174984"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Rocks.dll",
+      "size": 27648,
+      "sha256": "54AC539FB5DDC8B44C0E9ACD0FCB7324F89D1A072EDF8EBC1B06DD691E3D3927"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.RuntimeDetour.dll",
+      "size": 105984,
+      "sha256": "40E49BB314391CD7BDDC2644F8553EEBA92C194B940836B103DF16955C464E0C"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.RuntimeDetour.xml",
+      "size": 9414,
+      "sha256": "54887808960D156550B37D602D08847607AA9E908D039F2765FB0B5E79394AA4"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.Utils.dll",
+      "size": 187904,
+      "sha256": "9D1495F147AC93C4F81F84538C1A326E8F8A6AEFC78D6289D798F3CE1162C5E9"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.Utils.xml",
+      "size": 78973,
+      "sha256": "0577B362023A3432D6E8D7934C5EDDC3E08FDBB19E191AF083E341562C5EDE38"
+    },
+    {
+      "path": "BepInEx/plugins/EchoesChinese/EchoesChinese.dll",
+      "size": 15360,
+      "sha256": "C76E12584214E10FF87B19C49BEA2A4CFFEDC15969955920C9309E6C7D135221"
+    },
+    {
+      "path": "BepInEx/plugins/EchoesChinese/fonts/fusion-pixel-12px-zh_hans.ttf",
+      "size": 791640,
+      "sha256": "12B88019D16A4467EF432B0705638DE9E91C06DDFFCF9D7028821B32A08E59DA"
+    },
+    {
+      "path": "BepInEx/plugins/EchoesChinese/fonts/LICENSES/ark-pixel/OFL.txt",
+      "size": 4412,
+      "sha256": "3AB41567E68E3988BA1EF16DD2644ECA95CA5648EA12E7D46E6287FC0BBE5AEE"
+    },
+    {
+      "path": "BepInEx/plugins/EchoesChinese/fonts/LICENSES/cubic-11/OFL.txt",
+      "size": 5364,
+      "sha256": "2B6E5938E5CFFA0B9E183BD05F8C363E174E7EBED1A0556E2855FD1707FA2188"
+    },
+    {
+      "path": "BepInEx/plugins/EchoesChinese/fonts/LICENSES/galmuri/LICENSE.txt",
+      "size": 4360,
+      "sha256": "86A3EE9495F942F0243F18C103DA9FACA27ADB88142613EDB8BB852E56C892C1"
+    },
+    {
+      "path": "BepInEx/plugins/EchoesChinese/fonts/LICENSES/LICENSES/ark-pixel/OFL.txt",
+      "size": 4412,
+      "sha256": "3AB41567E68E3988BA1EF16DD2644ECA95CA5648EA12E7D46E6287FC0BBE5AEE"
+    },
+    {
+      "path": "BepInEx/plugins/EchoesChinese/fonts/LICENSES/LICENSES/cubic-11/OFL.txt",
+      "size": 5364,
+      "sha256": "2B6E5938E5CFFA0B9E183BD05F8C363E174E7EBED1A0556E2855FD1707FA2188"
+    },
+    {
+      "path": "BepInEx/plugins/EchoesChinese/fonts/LICENSES/LICENSES/galmuri/LICENSE.txt",
+      "size": 4360,
+      "sha256": "86A3EE9495F942F0243F18C103DA9FACA27ADB88142613EDB8BB852E56C892C1"
+    },
+    {
+      "path": "BepInEx/plugins/EchoesChinese/fonts/OFL.txt",
+      "size": 4418,
+      "sha256": "BC518CF64B8032C07690F33CC270C35C179255A6AC8EFA7C165EBAE7E8F76A63"
+    },
+    {
+      "path": "BepInEx/plugins/EchoesChinese/translations.json",
+      "size": 71519,
+      "sha256": "7A1BD3BE1281B2D6F639549B9FBA3E6E945509BCEA9F72C8A8A0B5890C3EDE14"
+    },
+    {
+      "path": "changelog.txt",
+      "size": 338,
+      "sha256": "B184D858CB0FF6614CA8CE0247FB0D186CABC91ED7E4D4D9D57EA3D744CE98B5"
+    },
+    {
+      "path": "doorstop_config.ini",
+      "size": 1460,
+      "sha256": "4D5C6DFA0F771C6A5B1B0C559ACA0BD0ECE7D08B08FFF894708DC3B73CE73CFC"
+    },
+    {
+      "path": "winhttp.dll",
+      "size": 26112,
+      "sha256": "8C6CDBC38836DEE87E3368F5DE1994D7C0CCEBF29E4CE7ABA3C0981F9375412C"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\bin\Release\net8.0\BepInEx.deps.json
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\bin\Release\net8.0\BepInEx.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\bin\Release\net8.0\BepInEx.pdb
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\obj\Release\net8.0\BepInEx.csproj.AssemblyReference.cache
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\obj\Release\net8.0\BepInEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\obj\Release\net8.0\BepInEx.AssemblyInfoInputs.cache
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\obj\Release\net8.0\BepInEx.AssemblyInfo.cs
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\obj\Release\net8.0\BepInEx.csproj.CoreCompileInputs.cache
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\obj\Release\net8.0\BepInEx.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\obj\Release\net8.0\refint\BepInEx.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\obj\Release\net8.0\BepInEx.pdb
+C:\Users\mumu\Desktop\ECHOES\Tools\CompileStubs\BepInEx\obj\Release\net8.0\ref\BepInEx.dll

@@ -1,0 +1,27 @@
+ECHOES 汉化项目索引（简版）
+
+完整目录说明请查看同目录下的 README.md。
+
+直接交付给玩家：
+  发布成品\ECHOES_简体中文补丁_v1.0.0.zip
+  发布成品\ECHOES_简体中文补丁_v1.0.0.sha256.txt
+
+翻译与源码：
+  Translation\          原文目录、译文映射、术语与风格规范
+  PatchSource\          汉化插件 C# 源码
+  Patch\                发布包暂存目录（不是最终交付文件）
+
+工具与归档：
+  Tools\Archives\Fonts\    用户提供的 8px、10px、12px 字体原包
+  Tools\Archives\Loaders\  BepInEx x64/x86 原包及哈希说明
+  Tools\Artifacts\          提取媒体和字体预览等审计材料
+  Tools\Audits\             历次发布包静态审计副本
+  Tools\BepInEx\            构建使用的已解压 BepInEx
+  Tools\CompileStubs\       仅用于离线编译验证，不会进入发布包
+
+常用脚本：
+  Tools\Build-Patch.ps1       生成最终补丁及 SHA-256 文件
+  Tools\Validate-Patch.ps1    执行发布前静态验证
+  Tools\Build-Translation.ps1 生成运行时翻译表
+
+游戏本体目录（ECHOES.exe、ECHOES_Data 等）保持原样。

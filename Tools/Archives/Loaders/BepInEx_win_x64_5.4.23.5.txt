@@ -1,0 +1,5 @@
+Archive: BepInEx_win_x64_5.4.23.5.zip
+Origin: User-provided local archive from the ECHOES game directory
+Target: ECHOES Windows x64 (PE machine 0x8664)
+BepInEx assembly version: 5.4.23.5
+SHA-256: 82F9878551030F54657792C0740D9D51A09500EEAE1FBA21106B0C441E6732C4

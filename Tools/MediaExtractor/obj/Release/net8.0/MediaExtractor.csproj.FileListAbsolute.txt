@@ -1,0 +1,14 @@
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\bin\Release\net8.0\MediaExtractor.exe
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\bin\Release\net8.0\MediaExtractor.deps.json
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\bin\Release\net8.0\MediaExtractor.runtimeconfig.json
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\bin\Release\net8.0\MediaExtractor.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\bin\Release\net8.0\MediaExtractor.pdb
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\obj\Release\net8.0\MediaExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\obj\Release\net8.0\MediaExtractor.AssemblyInfoInputs.cache
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\obj\Release\net8.0\MediaExtractor.AssemblyInfo.cs
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\obj\Release\net8.0\MediaExtractor.csproj.CoreCompileInputs.cache
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\obj\Release\net8.0\MediaExtractor.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\obj\Release\net8.0\refint\MediaExtractor.dll
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\obj\Release\net8.0\MediaExtractor.pdb
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\obj\Release\net8.0\MediaExtractor.genruntimeconfig.cache
+C:\Users\mumu\Desktop\ECHOES\Tools\MediaExtractor\obj\Release\net8.0\ref\MediaExtractor.dll

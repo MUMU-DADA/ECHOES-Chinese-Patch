@@ -1,0 +1,28 @@
+ECHOES 简体中文补丁 v1.0.0
+
+适用游戏：ECHOES Windows 64 位版
+目标 Build GUID：3582fd50e292455aa54dd78f69aa0d2b
+目标 Unity 版本：6000.2.6f2
+
+安装：
+1. 退出游戏。
+2. 将补丁压缩包内的全部文件解压到 ECHOES.exe 所在目录。
+3. 覆盖提示选择“是”。补丁不会覆盖游戏剧情资源或存档。
+
+卸载：
+运行游戏根目录下的“卸载汉化.cmd”，按提示确认即可；也可以手动删除 BepInEx\plugins\EchoesChinese 文件夹。
+如果没有安装其他 BepInEx 插件，也可一并删除 BepInEx、winhttp.dll、doorstop_config.ini
+和 .doorstop_version。删除前请先确认这些文件未被其他插件使用。
+
+说明：
+- 剧情、菜单、教程、物品名和结局文本已翻译为简体中文。
+- 原游戏的日语音素、语音和答案判定保持不变。
+- 教程视频保持原版，本补丁不替换或重编码视频。
+- 已知假名提示会显示为罗马音。
+- 少女的虚构语句只会在相关音素全部解读后显示中文释义，不会提前剧透。
+- 字体采用 FusionPixel12ZhHans，由 Fusion Pixel Font 12px 简体中文点阵生成。
+- 首次启动时，BepInEx 会在游戏目录生成配置和日志文件，属于正常现象。
+
+字体授权及上游许可详见：
+BepInEx\plugins\EchoesChinese\fonts\OFL.txt
+BepInEx\plugins\EchoesChinese\fonts\LICENSES
